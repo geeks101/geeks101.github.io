@@ -16,4 +16,4 @@ You will need multiple tools and matirials to build a working keyboard
 
 <img src="https://scontent.fceb6-1.fna.fbcdn.net/v/t1.15752-9/273883439_422214246324745_9042011551504238265_n.png?_nc_cat=111&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeHegNti2sA1NTDk_VKC_wOIjdlaWFkBc0-N2VpYWQFzTxew8DYzFgWX-VzWH3uBmb4g0eLHLw9lo0kXFixG_Jph&_nc_ohc=haX5ZYwEuvIAX87038X&_nc_oc=AQkdpAdjsYPX3V-fWHGAcQAxJSO_0vcikS7SBp9fkxb6dIWm8q_9MMKVMQh42oo6qcA&_nc_ht=scontent.fceb6-1.fna&oh=03_AdRwYZ2odRDDACUPqYOjvbN8dFq6MGLKhmcjH2ZNXkSF_A&oe=63A3A646" width="300">
 
-4. Plate: This is a either plastic, rubber, or meal 
+4. Plate: This is a either plastic, rubber, or metal, it is usally used in 
