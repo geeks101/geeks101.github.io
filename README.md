@@ -22,4 +22,4 @@ You will need multiple tools and matirials to build a working keyboard
 
 5. Luberecant: This is use to lubricate the switches and stabilizes, we do this to improve sound quality and switch activation points
 
-<img src"https://scontent.fdvo2-2.fna.fbcdn.net/v/t1.15752-9/289841664_446414277306956_7731469008344314310_n.png?_nc_cat=107&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeFNPRISnNZl4YagAW4jnZ7IcQZRJFmqDFBxBlEkWaoMUI0zLLdkNOQlgBOMedBWSDXVe_HVG8ZqG3MAL59MDoPQ&_nc_ohc=E2OoWoStABwAX-X_oyG&_nc_ht=scontent.fdvo2-2.fna&oh=03_AdSMRKRb1_A3_BejHXrIQFgCWbWhnmrHLSlv5f7ZmrFfcg&oe=63A7BA62" width="300">
+<img src="https://scontent.fdvo2-2.fna.fbcdn.net/v/t1.15752-9/289841664_446414277306956_7731469008344314310_n.png?_nc_cat=107&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeFNPRISnNZl4YagAW4jnZ7IcQZRJFmqDFBxBlEkWaoMUI0zLLdkNOQlgBOMedBWSDXVe_HVG8ZqG3MAL59MDoPQ&_nc_ohc=E2OoWoStABwAX-X_oyG&_nc_ht=scontent.fdvo2-2.fna&oh=03_AdSMRKRb1_A3_BejHXrIQFgCWbWhnmrHLSlv5f7ZmrFfcg&oe=63A7BA62"width="300">
