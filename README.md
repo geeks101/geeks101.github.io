@@ -23,3 +23,12 @@ You will need multiple tools and matirials to build a working keyboard
 5. Luberecant: This is use to lubricate the switches and stabilizes, we do this to improve sound quality and switch activation points
 
 <img src="https://scontent.fdvo2-2.fna.fbcdn.net/v/t1.15752-9/289841664_446414277306956_7731469008344314310_n.png?_nc_cat=107&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeFNPRISnNZl4YagAW4jnZ7IcQZRJFmqDFBxBlEkWaoMUI0zLLdkNOQlgBOMedBWSDXVe_HVG8ZqG3MAL59MDoPQ&_nc_ohc=E2OoWoStABwAX-X_oyG&_nc_ht=scontent.fdvo2-2.fna&oh=03_AdSMRKRb1_A3_BejHXrIQFgCWbWhnmrHLSlv5f7ZmrFfcg&oe=63A7BA62" width="300">
+
+
+Design the keyboard layout and key switches. The first step in making a keyboard is to decide on the layout and the type of key switches that will be used. This involves choosing the size and shape of the keyboard, the arrangement of the keys, and the type of switches that will be used to register key presses.
+
+Source the materials and components. Once the design of the keyboard has been finalized, the next step is to source the materials and components that will be used to build it. This may involve purchasing keycaps, key switches, PCBs (printed circuit boards), and other components from manufacturers or distributors.
+
+Assemble the keyboard. The next step is to assemble the keyboard by soldering the key switches onto the PCB, attaching the keycaps, and connecting the PCB to the rest of the keyboard. This process can be done by hand or using automated assembly equipment.
+
+Test and calibrate the keyboard. After the keyboard has been assembled, it will need to be tested and calibrated to ensure that all of the keys are functioning properly and that the keyboard is responsive and comfortable to use.
